@@ -1,0 +1,33 @@
+
+  College Workers  Scheduling and Management system
+
+In this project has three modules:
+ Admin
+ Officers                                                                                        
+ Workers
+
+
+Admin:
+  Login the account with the correct username and password
+  Add the workers and Manage
+  Assign the particular work to workers
+  View all work status
+  View workers attandance
+  Upadate the salary
+  View all feedback
+  Logout
+
+Officer:
+  Login the account with corrcet username and password
+  View all work assign and Status
+  Give feedback based on the work completed
+ Logout
+
+Workers:
+  Login the account with the correct username and password
+  Put their attendance
+  View work and completed
+  View salary upadated
+  View feedback
+  Logout
+   
